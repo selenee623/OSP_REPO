@@ -1,1 +1,4 @@
 master
+merge checking
+2nd modified in branch_2
+1st modified in branch_1
